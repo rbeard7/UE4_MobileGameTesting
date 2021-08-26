@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\Maglev\\OneDrive\\Documents\\GitHub\\UE4_AndroidTest\\UE4_MobileGameTesting\\UnrealMatch3\\Source\\Match3\\Match3.Build.cs",
+		"C:\\Users\\Maglev\\OneDrive\\Documents\\GitHub\\UE4_AndroidTest\\UE4_MobileGameTesting\\UnrealMatch3\\Source\\UnrealMatch3.Target.cs",
+		"C:\\Users\\Maglev\\OneDrive\\Documents\\GitHub\\UE4_AndroidTest\\UE4_MobileGameTesting\\UnrealMatch3\\Source\\UnrealMatch3Editor.Target.cs"
+	],
+	"EngineVersion": "4.26.2"
+}

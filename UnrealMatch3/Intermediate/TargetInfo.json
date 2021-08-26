@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "UnrealMatch3",
+			"Path": "C:\\Users\\Maglev\\OneDrive\\Documents\\GitHub\\UE4_AndroidTest\\UE4_MobileGameTesting\\UnrealMatch3\\Source\\UnrealMatch3.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "UnrealMatch3Editor",
+			"Path": "C:\\Users\\Maglev\\OneDrive\\Documents\\GitHub\\UE4_AndroidTest\\UE4_MobileGameTesting\\UnrealMatch3\\Source\\UnrealMatch3Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
